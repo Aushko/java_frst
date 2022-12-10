@@ -1,0 +1,5 @@
+# Project exclude paths
+/sandbox/sandbox/.gradle/
+/sandbox/sandbox/build/
+/sandbox/sandbox/build/classes/java/main/
+.idea/
